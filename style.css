@@ -36,6 +36,10 @@ body {
     min-height: 250px;
     height: 50px;
   }
+  
+  body {
+    background-color: #EF5BO2;
+  }
 }
 
 .content-banner {
